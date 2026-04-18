@@ -1,0 +1,549 @@
+© 2026  Mensch und Maschine
+Mensch und Maschine Software SE
+Unternehmenspräsentation Stand 16. Februar 2026 / vorläufige Zahlen 2025
+
+© 2026  Mensch und Maschine
+Geschäftsmodell
+◼Führender Entwickler von Technischen Softwarelösungen
+◆CAD/CAM/CAE = Computer Aided Design / Manufacturing / Engineering 
+PDM/PLM = Product Data/Lifecycle Management / BIM = Building Information Modeling/Management
+◆Gegründet 1984 - 42 Jahre am Markt  //  IPO 1997 - 29 Jahre börsennotiert  //  1.192 Mitarbeitende (31.12.25)
+◼Wertschöpfung fast gleichmäßig aus 2 Segmenten
+◆Software: MuM-eigene Standardsoftware
+CAD/CAM / BIM/Ingenieurbau / Garten/Landschaftsbau / CAE
+◆Digitalisierung*: Kundenspezifische Softwarelösungen
+Eigene Wertschöpfung: Kundenprojekte / Schulungen / Hotline etc.
+Fremdsoftware (Autodesk etc.): Hebeleffekt auf MuM-Marktanteil
+(*frühere Segmentbezeichnung: Systemhaus)
+Digitali-
+sierung
+MuM 
+Software
+Umsatz
+Digitali-
+sierung
+MuM 
+Software
+Rohertrag (Wertschöpfung)
+Digitali-
+sierung
+MuM 
+Software
+EBIT
+
+© 2026  Mensch und Maschine
+Nachhaltige Geschäftsentwicklung (vorläufige Zahlen 2025)
+MuM nach starkem Q4 wieder auf Rekordkurs
+◼
+Umsatz 2025: EUR ~238,5 Mio / -27%
+◆
+Software: EUR ~114,4 Mio / +4,7%  //  Digitalisierung: EUR ~124,1 Mio / -43%
+◆
+Autodesk: Wiederverkaufs-Boost in Q3/24 / Umstellungseffekt Q4/24 bis Q3/25 
+◆
+Marktvolumen inkl. Autodesk-Umsätzen von MuM-Kunden: EUR ~373 Mio / +6%
+◼
+Rekord-Rohertrag 2025: EUR ~181,8 Mio / +4,2%  Margensprung auf ~76% (Vj 53,6%)
+◆
+Software: EUR ~102,7 Mio / +3,7%  //  Digitalisierung: EUR ~79,1 Mio / +4,7%
+◆
+10-Jahres-Wachstum 2015-2025: +8% p.a. / Entwicklung viel stetiger als Umsatz
+◼
+Rekord-EBIT 2025: EUR ~49,1 Mio / +5,7%  Margensprung auf ~20,6% (Vj 14,3%)
+◆
+Software: EUR ~32,4 Mio / +5,9%  //  Digitalisierung: EUR ~16,7 Mio / +5,2%
+◆
+10-Jahres-Wachstum 2015-2025: +19% p.a. / weit überproportional zum Rohertrag
+◆
+Nach Delle in Q4/24 durch doppelte Systemumstellung (intern & Autodesk):
+➢
+9M/25 Konsolidierungsphase / EBIT Q3/25 wieder knapp über Vorjahr
+➢
+Q4/25 zurück zu normaler Stärke / Ertragssprung: EUR ~11,9 Mio / +42%
+◆
+Nicht operative Kosten EUR ~2,4 Mio – EBIT bereinigt EUR ~51,5 Mio / +11%
+◼
+Rekord-Nettogewinn 2025: EUR ~31,7 Mio / EPS ~190 Cent/Aktie / +5,5% 
+◆
+10-Jahres-EPS-Wachstum 2015-2025: +23% p.a. 
+◼
+Rekord-Dividendenvorschlag 2025: 200 Cent (Vj 185 / +8%)
+◆
+10-Jahres-Dividenden-Wachstum 2015-2025: +23% p.a. 
+0
+10
+20
+30
+40
+50
+Q1
+Q2
+Q3
+Q4
+Rohertrag 2023
+Rohertrag 2024
+Rohertrag 2025
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Autodesk-Marktumsatz
+EK Autodesk Resale
+sonst. Materialaufwand
+Rohertrag Digitalisierung
+Rohertrag MuM-Software
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+EBIT Digitalisierung
+EBIT MuM-Software
+EPS (Cent rechte Skala)
+Dividende (Cent rechts)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Q1
+Q2
+Q3
+Q4
+EBIT 2023
+EBIT 2024
+EBIT 2025
+Rohertrag +8% p.a.
+EBIT +19% p.a.
+EPS +23% p.a.
+0
+20
+40
+60
+80
+100
+Q1
+Q2
+Q3
+Q4
+Umsatz 2023
+Umsatz 2024
+Umsatz 2025
+Dividende +23% p.a.
+
+© 2026  Mensch und Maschine
+Nachhaltige Geschäftsentwicklung: Ausblick
+Rohertrag +8% p.a. / EBIT +19% p.a. – wie geht das?
+◼Ganz einfach: Kosten+AfA 2015-2025 nur rund +5% p.a.
+◼Im MuM-Konzern wird die Kostenentwicklung aktiv & dezentral 
+(~100 Profitcenter) bei ~2/3 der Rohertragsentwicklung ausgesteuert
+➢Kontinuierliche Ergebniszuwächse durch striktes Kostenmanagement
+✓Funktioniert sogar bei kurzfristigen Dellen in der Rohertragsentwicklung
+(2016/17: Rohertrag +3,7% / EBIT +22% // 2YR 2019/21: Rohertrag +8,2% / EBIT +28%)
+Nachhaltig profitable Strategie - auch für die Zukunft:
+◼Organisches Wachstum + Kostendisziplin = Skaleneffekt
+Mittelfristiges Wachstumsziel (organisch):
+➢Ergebnisverdoppelung in 5 Jahren => +15% pro Jahr:  
+EPS 2025 ~190 Cent / Ziel >380 Cent bis 2030
+Jährliches Wachstumsziel bis 2030:
+◆Rohertrag: Mittel +8% / Spread +6% bis +10%
+◆EBIT/EPS/Dividende: Mittel +15% / Spread +11% bis +19%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+26E
+27E
+EBIT
+Kosten+AfA
+Kosten+AfA 
++5% p.a.
+Rohertrag 
++8% p.a.
+EBIT 
++19% p.a.
+
+© 2026  Mensch und Maschine
+Das MuM-Portfolio: Diverse Digitale Zwillinge
+CAM: Simulation des gesamten 
+Bearbeitungsvorgangs mit einer 
+„Virtuellen Werkzeugmaschine“
+BIM: Alle Bau-Gewerke in 3D, inkl. Informationen 
+zu Massen, Kosten und zeitlichem Ablauf. 
+Für Ingenieurbau, Hoch/Infrastrukturbau
+sowie Garten/Landschafts- und Erdbau 
+BIM für Infrastruktur: 
+Geo- und Kataster-Daten mit 
+anderen Quellen verknüpft 
+als Digitale Stadt oder Fabrik
+Industrie/CAE: 
+PDM/PLM, Anlagenbau, 
+Variantenkonstruktion
+
+© 2026  Mensch und Maschine
+CAD/CAM in der Praxis (Segment Software)
+◼
+CAM – Computer Aided Manufacturing
+◼
+100%-Tochterfirma Open Mind – Produktlinie hyperMILL®
+◼
+High-End – Erzielter Preis ca. EUR 30.000 / Arbeitsplatz
+◼
+Global >10.000 Kunden mit >20.000 CAM-Arbeitsplätzen
+Die Anschaffungskosten von Präzisions-
+Werkzeugmaschinen liegen im sechs- 
+oder gar siebenstelligen Euro-Bereich. 
+hyperMILL® verkürzt mit intelligenten 
+Bearbeitungsstrategien die Maschinen-
+zeiten um bis zu 90% und katapultiert 
+damit die Wirtschaftlichkeit dieser teuren 
+Maschinen in ganz neue Dimensionen. 
+CAD Software
+(Konstruktion)
+Werkzeug-
+Maschine mit 
+NC-Steuerung
+CAM Software 
+erzeugt NC-Code 
+für Maschine
+Bis zu 5x schneller helikal Schruppen
+5x schneller: Gesamt-Fräszeit 2h05 statt 10h30
+Bis zu 10x schneller Ebenen-Schlichten
+Beispiel: Flugzeug-Leichtbauteil
+Virtuelle Werkzeugmaschine
+
+© 2026  Mensch und Maschine
+BIM in der Praxis (Segment Software)
+◼BIM / Ingenieurbau: Statik- und Bewehrungssoftware
+◼
+Tochterfirma SOFiSTiK AG (gegr. 1987) / MuM-Anteil 51,4% 
+◼
+Technologisch führend im Brücken-, Geotechnik/Tunnel- und Hochbau
+◼
+Über 3.000 Kunden in mehr als 60 Ländern auf allen Kontinenten
+◼
+Beeindruckende Referenzen – z.B. Sixth Street Viaduct in Los Angeles, USA (2022)
+◼
+Zahlreiche Spezialmodule runden das Software-Portfolio ab, z.B.:
+◼Bridge + Infrastructure Modeler für Brücken, Tunnel und Profilbauwerke (z.B. Lärmschutzwände)
+◼CFD (Computational Fluid Dynamics) für die Berechnung von Wind-Einflüssen
+◼Analysefunktionen für Gebäudesicherheit bei Erdbeben etc. 
+
+© 2026  Mensch und Maschine
+BIM in der Praxis (Segment Software)
+◼
+BIM / Garten- Landschafts- und Erdbau für Architekten und ausführende Firmen
+◼
+Tochterfirma DATAflor AG, Göttingen (gegr. 1982) / MuM-Anteil 67,2%
+◼
+Die Softwarelösungen umfassen sowohl die grafische Planung als auch Kalkulation, 
+Ausschreibung, Angebotserstellung, Baustellen-Controlling und Abrechnung 
+◼
+Drei Beispiele aus der umfangreichen Funktionalität: 
+◼
+Gartenplan mit Bepflanzungsvorschlag und „Blühkalender“ für alle Jahreszeiten (Bild links)
+◼
+Digitales Geländemodell: Komfortable 3D-Planung / Übergabe an Baggersteuerung (Bild Mitte)
+◼
+GRÜNSTUDIO 3D: Den künftigen Garten z.B. per VR-Brille vorab live erleben (Bild rechts)
+
+© 2026  Mensch und Maschine
+◼Architektur/Bau: BIM - Building Information Modeling/Management
+Digitalisierung in der Praxis
+Branchenlösungs-Familie auf Basis 
+von Autodesk Revit zur Anpassung 
+an lokale Standards / Bedürfnisse 
+Planung / Modellprüfung
+Kalkulationsmodul
+2D/3D-Mengenermittlung
+BIM-Ausbildungslinie für alle Beteiligten an Bauprojekten – von Bauzeichner/in bis 
+Projektleiter/in. Seit 2012 wurden mehr als 10.000 Teilnehmer geschult/zertifiziert.
+
+© 2026  Mensch und Maschine
+Digitalisierung in der Praxis
+◼Lösungen für Industriekunden mit hohen Einspar-Potentialen, z.B.: 
+PDM/PLM: Kaufmännische und 
+Konstruktions-Daten verbinden
+CAE für große Anlagen: Elektrotechnik, 
+Hydraulik, Pneumatik, Gebäudetechnik
+Vollautomatisierte Variantenkonstruktion 
+für profitable Fertigung ab Losgröße 1
+Neue CIM-Ausbildungslinie (Computer Integrated Manufacturing)
+
+© 2026  Mensch und Maschine
+Digitalisierung in der Praxis
+◼Building Information Management / BIM für Infrastruktur: 
+MuM MapEdit als Datendrehscheibe für die Digitale Stadt oder Fabrik
+Rund 2.500 Arbeitsplätze bei fast 200 Kunden 
+in D, CH und Europa: Kommunen, Ver-/Entsorger, 
+Industrie, Häfen/Flughäfen, Planungsbüros... 
+
+© 2026  Mensch und Maschine
+Digitalisierung 
+Industrie
+Software 
+CAD/CAM 
+Software 
+CAD/BIM 
+Digitalisierung 
+Bauwesen
+Hybrid   
+Industrie  
+& Bau
+Branchenverteilung Rohertrag (2025: EUR ~181,8 Mio)
+Bereich Industrie (~55%):
+◼CAM-Software hyperMILL mit eigenem Kern hyperCAD S 
+Zielgruppe: Eigner/Käufer von Werkzeugmaschinen
+◼Digitalisierung: Projekte/Schulung für Maschinenbau, 
+Fahrzeug-/Flugzeug-/Schiffsbau, Verfahrenstechnik, 
+Elektrotechnik, Hydraulik, Pneumatik…
+Bereich Architektur/Bauwesen (~35%):
+◼Software: BIM/Garten/Landschaft/Erdbau (DATAflor) 
+und BIM/Ingenieur/Brücken/Tunnelbau (SOFiSTiK)
+◼Digitalisierung: Projekte/Schulung für Hochbau, 
+Haustechnik, Tiefbau, Liegenschaftsverwaltung…
+Hybrid-Bereich Industrie & Bau (~10%):
+◼CAE/eXs, BIM für Infrastruktur (Digitale Stadt / Fabrik), 
+Variantenkonstruktion/customX, iBIM für Bau-Zulieferer…
+◼Gemeinsame Basis (Ausnahme CAM): CAD-Standards 
+von Autodesk (AutoCAD, Revit, Inventor, Vault…)
+Digitalisierung: Autodesk-Geschäft / Software: OEM/Lizenzverträge
+
+© 2026  Mensch und Maschine
+Global mit Schwerpunkt DACH 
+◼Geografische Umsatzaufteilung: (2025)
+◆
+Deutschland: EUR ~100,6 Mio / 42,2%
+◆
+Schweiz/Österreich: EUR ~31,4 Mio / 13,2%
+◆
+Übriges Europa: EUR ~75,4 Mio / 31,6%
+◆
+Global: EUR ~31,1 Mio / 13,1%
+◆Die MuM-eigene CAD/CAM- und 
+BIM/Ingenieurbau-Software wird 
+in mehr als 70 Länder auf allen 
+fünf Kontinenten verkauft 
+◆
+~75 Standorte in >20 Ländern 
+(Europa, Asien und Amerika)
+◆
+Weit über 100.000 aktive Arbeitsplätze 
+bei mehr als 30.000 Kunden
+Deutsch-
+land
+42,2%
+Schweiz 
+Österreich
+13,2%
+übriges 
+Europa
+31,6%
+Global
+13,1%
+
+© 2026  Mensch und Maschine
+Nachhaltigkeit: Ökonomie & Ökologie im Einklang
+MuM nutzt alle geeigneten Dachflächen auf 
+konzerneigenen Gebäuden für regenerative 
+Stromerzeugung und produziert so insgesamt 
+rund 200 MWh Solarstrom pro Jahr 
+Das MuM-Geschäftsmodell basiert auf 
+Ressourcen-Einsparungen bei Kunden…
+✓Eine Werkzeugmaschine, die zwei- bis fünfmal schneller fertig ist, 
+verbraucht auch entsprechend weniger Strom
+✓Entsprechendes gilt, wenn Kunden mit eXs, customX, PDM Booster 
+und CIM Ready Training ihre technischen Prozesse beschleunigen
+✓oder wenn durch Ausbildung mit BIM Ready und Einsatz des BIM 
+Booster effektiver geplant und ressourcensparend gebaut wird 
+✓oder wenn große Infrastruktur-Betreiber mit Hilfe von MapEdit ihre 
+ambitionierten Nachhaltigkeitsziele rascher erreichen können
+✓Ein mit SOFiSTiK-Software geplantes und berechnetes Bauwerk 
+kommt mit weniger Stahl und Beton aus oder kann alternativ aus 
+einem umweltfreundlicheren Material wie Holz errichtet werden
+✓Und mit Hilfe der Garten- und Landschaftsbau-Planungssoftware von 
+DATAflor entstehen Gärten oder Parkanlagen, die einen direkten 
+Beitrag zur CO2-Reduktion leisten
+… was den CO2-Fußabdruck von MuM 
+    weit mehr als kompensieren dürfte
+
+© 2026  Mensch und Maschine
+MuM: Unternehmergeführt & Börsennotiert
+◼Notierungen:
+◆
+scale, Frankfurt (scale30)
+◆
+m:access, München
+◼Designated Sponsors:
+◆
+LBBW, Stuttgart
+◆
+Oddo BHF, Frankfurt 
+◼Analysten-Coverage:
+◆
+LBBW: „Kaufen“ – Kursziel EUR 59,00
+◆
+SMC: „Strong buy“ – EUR 68,00
+◆
+Berenberg: „Hold“– EUR 52,00 
+◆
+DZ Bank: „Kaufen“ – Kursziel EUR 67,00
+◆
+GBC AG: „Kaufen“ – Kursziel EUR 65,00
+◆
+Deutsche Bank: „Buy“ – EUR 60,00
+ 
+ 
+ 
+ 
+ 
+Gesamt-Dividendensumme für 2010 bis 2024: EUR 10,60
+Drotleff
+48,38%
+Eigene 
+Anteile 
+31.12.2025
+3,98%
+Free Float
+41,87%
+Management
+5,76%
+Der MuM-Kurs lag meist zwischen 2% und 3% anfänglicher Dividendenrendite // Ausreißer: 2020/21 bis ~1,5% / 2023/24/25 bis >5%
+683.204 Aktien
+Buchwert TEUR 32.390
+EUR 47,41 je Aktie
+0,00
+3,50
+7,00
+10,50
+14,00
+17,50
+21,00
+24,50
+28,00
+31,50
+35,00
+38,50
+42,00
+45,50
+49,00
+52,50
+56,00
+59,50
+63,00
+66,50
+70,00
+73,50
+-100%
+0%
+100%
+200%
+300%
+400%
+500%
+600%
+700%
+800%
+900%
+1000%
+1100%
+1200%
+1300%
+1400%
+1500%
+1600%
+1700%
+1800%
+1900%
+2000%
+Jan. 10
+Jul. 10
+Jan. 11
+Jul. 11
+Jan. 12
+Jul. 12
+Jan. 13
+Jul. 13
+Jan. 14
+Jul. 14
+Jan. 15
+Jul. 15
+Jan. 16
+Jul. 16
+Jan. 17
+Jul. 17
+Jan. 18
+Jul. 18
+Jan. 19
+Jul. 19
+Jan. 20
+Jul. 20
+Jan. 21
+Jul. 21
+Jan. 22
+Jul. 22
+Jan. 23
+Jul. 23
+Jan. 24
+Jul. 24
+Jan. 25
+Jul. 25
+Jan. 26
+DAX Software Index
+TecDAX Index
+M+M Aktie/Share EUR
+2%  Div Rendite/Return
+3%
+
+© 2026  Mensch und Maschine
+Warum in die MuM-Aktie investieren?
+◼MuM ist ein führender Entwickler von Technischen Softwarelösungen
+◆Gegründet 1984  //  seit 42 Jahren am Markt etabliert  //  ~1.200 Mitarbeitende 
+◆Mehr als 30.000 aktive Kunden mit weit über 100.000 Arbeitsplätzen weltweit
+◆Breite Länder- & Branchen-Abdeckung ermöglicht flexible Reaktion auf Veränderungen
+◆Unternehmergeführt und seit 29 Jahren börsennotiert 
+◼Gut skalierbares Geschäftsmodell / nachhaltig profitables Wachstum
+◆Organisches Rohertrags-Wachstum (CAGR) rund 8% p.a. im langjährigen Durchschnitt
+◆EPS 2025 bei ~190 Cent – Ziel: Verdoppelung in 5 Jahren, also EPS 2030E >380 Cent
+◆Gewinn-Wachstumsziele durch effektives Kostenmanagement abgesichert
+◼Laufend steigende Dividendenrendite durch hohe Ausschüttungsquote
+◆Entwicklungskosten (2025: EUR ~28 Mio.) werden größtenteils nicht aktiviert, sondern als Betriebskosten 
+gebucht. Deshalb kann MuM den Gewinn weitgehend ausschütten, ohne die eigene Zukunft zu gefährden.
+Weitere Infos: www.mum.de / Investor Relations

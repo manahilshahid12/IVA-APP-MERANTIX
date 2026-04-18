@@ -1,0 +1,1071 @@
+Mensch und Maschine  
+Software SE 
+Argelsrieder Feld 5 
+D-82234 Wessling 
+ 
+Tel. +49 (0) 81 53 / 9 33 - 0 
+Fax +49 (0) 81 53 / 9 33 - 100 
+www.mum.de
+Software
+CAD/BIM in der Praxis: Software für Garten-/Landschafts-/Tief- und Erdbau 
+Vom digitalen Posteingang bis zum Bautagebuch - KI erledigt vieles automatisch 
+Die Softwarelösungen für die grüne Branche von MuM-Konzerntochter DATAflor 
+umfassen den grafischen Planungsteil inklusive „Digitales Geländemodell“ und 
+fotorealistische Visualisierung ebenso wie z.B. die kaufmännische Kalkulation, 
+Ausschreibung, Angebotserstellung, Baustellen-Controlling und Abrechnung.  
+Dabei kommt mehr und mehr auch künstliche Intelligenz zum Einsatz - ob für 
+schnellere Prozesse, weniger Routineaufwand oder mehr Zeit fürs Wesentliche. 
+Zum Beispiel beim digitalen Posteingang: Ob E-Rechnung, PDF oder Foto, die 
+Software erkennt automatisch, worum es geht – und übernimmt. Steuerrelevante 
+Daten werden ausgelesen, der passende Workflow startet ganz von allein. 
+Oder bei der Pflanzplanung: Hier analysiert KI vollautomatisch Standort- und 
+Pflanzeninformationen – und erzeugt daraus passende Pflegetipps. 
+Ebenso beim Bautagebuch, das mitdenkt: Dank KI und Spracherkennung kann die 
+Baustellendokumentation einfach vor Ort per Smartphone erfasst werden - auch 
+in der Mitarbeiter-Muttersprache, die dann per KI in eine einheitliche Zielsprache 
+umgewandelt wird. Sprechen statt tippen - für mehr Effizienz auf der Baustelle. 
+CAD/BIM in practice: Software for Gardening/Landscaping/Earthworks 
+From digital inbox to construction diary - AI does a lot automatically 
+Software solutions for the Green Sector developed by M+M group member 
+DATAflor not only contain graphical planning including a ‘Digital Terrain’  
+module and photorealistic visualization, but also commercial software, e.g.  
+for calculation, tender, quoting, construction site controlling and billing.  
+Artificial intelligence is also being used more and more – whether for faster  
+processing, or reduced routine work, leading to more time for the essentials.  
+Take digital mail reception, for example: whether it's an e-invoice, PDF, or photo, 
+the software automatically recognizes what it is and takes care of it. Tax-relevant 
+data extracted and the appropriate workflow starts automatically.  
+Or take plant planning: Here, AI automatically analyzes location and plant  
+information – and generates appropriate care tips.  
+The same applies to the intelligent construction diary: Thanks to AI and speech 
+recognition, construction site documentation can be easily recorded on-site 
+using a smartphone – even in the employees' native language, which is then 
+converted into a uniform target language using AI.  
+Speaking instead of typing – for greater efficiency on the construction site.  
+Bilder/Pictures: DATAflor, Goettingen / Simonsen Freianlagen, Dresden 
+Titel/Cover: AHNER/BREHM Landschaftsplanung, Koenigs Wusterhausen 
+Quartalsbericht - Q3/2025 - Quarterly report
+Software
+
+ Zweitstärkste 9M der Firmengeschichte 
+    Autodesk-Umstellung nun abgeschlossen 
+     
+Umsatz: EUR 177,10 Mio / -34% 
+     
+Rohertrag: EUR 135,70 Mio / +0,5% 
+     
+EBIT: EUR 37,18 Mio / -2,4% 
+       Margensprung auf 21,0% (Vj 14,1%) 
+     
+Netto: EUR 24,01 Mio / -5,6% 
+       Pro Aktie: 143,6 Cent (Vj 150,5) 
+       Op. Cashflow: EUR 16,62 Mio (Vj 52,78) 
+ Ziele für 2025/26 unverändert bestätigt 
+   (Q4 profitiert von schwachem Vorjahr)
+Erste 9 Monate 2025 im Überblick
+Quartalsbericht Q3/2025
+Zwischenlagebericht 9M/2025 
+ 
+Zweitstärkste 9M der Firmengeschichte 
+Autodesk-Umstellung nun abgeschlossen 
+Mensch und Maschine Software SE (MuM) 
+hat trotz der Bremseffekte durch die nun 
+abgeschlossene Umstellung auf das neue 
+Autodesk-Modell das zweitstärkste Neun-
+monatsergebnis der Firmengeschichte 
+erzielt sowie einen Sprung von 14,1% auf 
+21,0% bei der EBIT-Rendite verzeichnet.  
+ 
+Umsatz mit Autodesk-Umstellungseffekt  
+Der Konzernumsatz lag bei EUR 177,10 Mio  
+(Vj 270,08 / -34%), davon EUR 85,99 Mio  
+(Vj 82,31 / +4,5%) aus MuM-Software und 
+EUR 91,11 Mio (Vj 187,77 / -51%) aus der 
+Digitalisierung, wo nach der Umstellung von 
+Wiederverkauf auf Provision der Großteil des 
+Autodesk-Einkaufs weggefallen ist. Dies hat 
+eine technische Umsatzreduktion zur Folge, 
+die im Q3 wegen des Wiederverkaufs-End-
+spurts im Vorjahr besonders stark ausfiel.  
+ 
+Deutliche Margensprünge: 
+Rohmarge von 50,0% auf 76,6% ... 
+Der 9M-Rohertrag kam bei EUR 135,70 Mio  
+(Vj 135,05 / +0,5%) herein, mit EUR 77,54 Mio 
+(Vj 74,99 / +3,4%) aus MuM-Software und 
+EUR 58,16 Mio (Vj 60,06 / -3,2%) aus der 
+Digitalisierung. Die Autodesk-Umstellung 
+sorgte für Rohmargen-Sprünge auf 63,8% 
+(Vj 32,0%) im Digitalisierungs-Segment 
+sowie auf 76,6% (Vj 50,0%) im Konzern. 
+ 
+... und EBIT-Rendite von 14,1% auf 21,0% 
+Das 9-Monats-Betriebsergebnis EBIT betrug  
+EUR 37,18 Mio (Vj 38,10 / -2,4%), wobei 
+EUR 24,63 Mio (Vj 23,18 / +6,2%) mit MuM-
+Software und EUR 12,55 Mio (Vj 14,91 / -16%) 
+in der Digitalisierung erwirtschaftet wurde. 
+Die EBIT-Rendite sprang von 14,1% auf 21,0%. 
+ 
+Beim Neunmonats-Nettogewinn nach Anteilen 
+Dritter von EUR 24,01 Mio (Vj 25,44 / -5,6%) 
+bzw. 143,6 Cent (Vj 150,5) pro Aktie ist die 
+tatsächliche Jahres-Steuerquote von 26,57% 
+des Jahres 2024 auch für 2025 unterstellt. 
+ 
+Operativer Cashflow wie erwartet niedriger 
+Der operative Cashflow, der 2023/24 stark 
+von zeitlichen Abrechnungs-Differenzen bei 
+Autodesk-Dreijahresverträgen profitiert hatte 
+und 2025/26 durch den technischen Gegen -
+effekt entsprechend niedriger ausfällt, lag 
+nach neun Monaten bei EUR 16,62 Mio  
+(Vj 52,78) bzw. 99 Cent je Aktie (Vj 312).  
+ 
+Brutto-Mitarbeiterzahl aktuell bei 1.195 
+Die Brutto-Mitarbeiterzahl zum 30.9.2025 
+lag bei 1.195 Personen (Vj 1.181 / +1,2%).  
+Das Vollzeit-Äquivalent in 9M/2025 betrug  
+1.122 Personen (Vj 1.092 / +2,7%), mit  
+591 (Vj 567) im Software-Segment und  
+531 (Vj 525) im Digitalisierung-Segment.  
+ 
+2
+Software
+Rohertrag / Gross profit (in MEUR)
+Umsatz / Revenue (in MEUR)
+0
+20
+40
+60
+80
+100
+Q 1
+Q 2
+Q 3
+Q 4
+2023
+2024
+2025
+0
+10
+20
+30
+40
+50
+Q 1
+Q 2
+Q 3
+Q 4
+2023
+2024
+2025
+Quarterly report Q3/2025
+EBIT (in MEUR)
+Management report 9M/2025 
+ 
+Second strongest 9M in M+M’s history 
+Autodesk transition now completed 
+Mensch und Maschine Software SE (M+M) 
+achieved the second strongest nine months 
+earnings in the company's history despite  
+the retarding effects of the now completed 
+transition to the new Autodesk model, while 
+EBIT margin jumped from 14.1% to 21.0%.  
+ 
+Autodesk transition affecting sales 
+Group sales amounted to EUR 177.10 mln 
+(PY: 270.08 / -34%), with EUR 85.99 mln 
+(PY: 82.31 / +4.5%) from M+M Software 
+and EUR 91.11 mln (PY: 187.77 / -51%) 
+from Digitization, where after the switch 
+from resale to commission, the majority of 
+the Autodesk purchase has been eliminated. 
+This leads to a technical reduction in sales, 
+which was particularly strong in Q3 due to 
+the final reselling boost in the previous year.  
+ 
+Significant margin jumps:  
+Gross margin from 50.0% to 76.6% ... 
+9M gross profit came in at EUR 135.70 mln  
+(PY: 135.05 / -0.5%), with EUR 77.54 mln 
+(PY: 74.99 / +3.4%) from M+M Software 
+and EUR 58.16 mln (PY: 60.06 / -3.2%) 
+from Digitization. The Autodesk transition 
+resulted in gross margin jumps to 63.8% 
+(PY: 32.0%) in the Digitization segment  
+and to 76.6% (PY: 50.0%) in the Group. 
+ 
+... and EBIT margin from 14.1% to 21.0% 
+9M operating profit EBIT was EUR 37.18 mln  
+(PY: 38.10 / -2.4%), with EUR 24.63 mln 
+(PY: 23.18 / +6.2%) from M+M Software 
+and EUR 12.55 mln (PY: 14.91 / -16%) 
+from the Digitization segment.  
+EBIT margin jumped from 14.1% to 21.0%. 
+ 
+Nine months net profit after minority shares 
+was EUR 24.01 mln (PY: 25.44 / -5.6%),  
+or 143.6 Cents (PY: 150.5) per share.  
+The net profit calculation is based on the 
+actual 26.57% full year 2024 tax rate, to 
+which 9M/2024 was also restated. 
+ 
+Operating cash flow lower, as expected 
+Operating cash flow, which had benefited 
+significantly from billing timing differences 
+for Autodesk 3YR contracts in 2023/24 and 
+is correspondingly lower in 2025/26 due to 
+the technical counter-effect, amounted  
+to EUR 16.62 mln (PY: EUR 52.78) or  
+99 Cents per share (PY: 312) after 9M. 
+ 
+Gross headcount currently 1,195 
+Group gross headcount was 1,195 people 
+as of Sept 30, 2025 (PY: 1,181 / +1.2%). 
+The average full time equivalent in 9M/2025 
+was 1,122 (PY: 1,092 / +2.7%), thereof  
+591 (PY: 567) in the Software segment and 
+531 (PY: 525) in the Digitization segment.  
+ 
+ Second strongest 9M in M+M’s history 
+   Autodesk transition now completed 
+     
+Sales: EUR 177.10 mln / -34% 
+       Gross profit: EUR 135.70 mln / +0.5% 
+     
+EBIT: EUR 37.18 mln / -2.4% 
+       Margin jump to 21.0% (PY: 14.1%) 
+     
+Net profit: EUR 24.01 mln / -5.6% 
+       EPS: 143.6 Cents (PY: 150.5) 
+       Op. cash flow: EUR 16.62 mln (PY: 52.78) 
+ 2025/26 targets reaffirmed unchanged 
+   (Q4 will be profiting from weak PY)
+The first 9 months 2025 at a glance
+3
+Software
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Q 1
+Q 2
+Q 3
+Q 4
+2023
+2024
+2025
+
+Quartalsbericht Q3/2025
+Bilanzentwicklung / Eigene Aktien 
+Die Bilanzsumme zum 30.9.2025 betrug 
+EUR 195,07 Mio (31.12.2024: 211,89 / -8%), 
+das Eigen kapital lag bei EUR 83,40 Mio 
+(31.12.2024: 104,91 / -21%), die Eigen -
+kapital quote bei 42,8% (31.12.2024: 49,5%).  
+ 
+Seit Januar wurden 519.312 MuM-Aktien  
+(Vj 42.745) zum Durchschnittskurs von  
+EUR 49,28 (Vj 51,89) im Gesamtwert von 
+TEUR 25.593 (Vj 2.218) zurückgekauft. 
+ 
+Andererseits wurden im Rahmen der Aktien-
+Dividende 202.740 (Vj 162.592) eigene Aktien 
+im Buchwert von TEUR 9.819 (Vj 6.837) 
+bzw. EUR 48,43 pro Aktie (Vj 42,05) zum 
+Kurs von EUR 54,27 (Vj 57,17) ausgegeben. 
+Der Kursgewinn von TEUR 1.184 (Vj 2.458) 
+wurde in der Kapitalrücklage verbucht. 
+ 
+Zum 30.9.2025 wurden 566.348 eigene 
+Aktien (31.12.24: 249.776) bzw. 3,30% des 
+gezeichneten Kapitals (31.12.24: 1,46%) 
+gehalten, mit Anschaffungskosten von  
+TEUR 27.500 (31.12.24: 11.726) oder  
+EUR 48,56 pro Aktie (31.12.24: 46,94).  
+ 
+Gemäß IFRS werden eigene Aktien bilanziell 
+als eingezogen behandelt und im Eigenkapital 
+mit negativem Anschaffungswert angesetzt. 
+ 
+Risiken 
+Seit dem 31.12.2024 haben sich keine 
+wesentlichen Änderungen bei den Risiken 
+ergeben, die im Geschäftsbericht 2024 auf 
+Seite 20/21 aufgeführte Risikoaufstellung ist 
+also nach wie vor aktuell.  
+ 
+4
+Software
+Entwicklung der MuM Aktie / Development of the M+M share
+0,00
+3,50
+7,00
+10,50
+14,00
+17,50
+21,00
+24,50
+28,00
+31,50
+35,00
+38,50
+42,00
+45,50
+49,00
+52,50
+56,00
+59,50
+63,00
+66,50
+70,00
+73,50
+-100%
+0%
+100%
+200%
+300%
+400%
+500%
+600%
+700%
+800%
+900%
+1000%
+1100%
+1200%
+1300%
+1400%
+1500%
+1600%
+1700%
+1800%
+1900%
+2000%
+Jan. 10
+Jul. 10
+Jan. 11
+Jul. 11
+Jan. 12
+Jul. 12
+Jan. 13
+Jul. 13
+Jan. 14
+Jul. 14
+Jan. 15
+Jul. 15
+Jan. 16
+Jul. 16
+Jan. 17
+Jul. 17
+Jan. 18
+Jul. 18
+Jan. 19
+Jul. 19
+Jan. 20
+Jul. 20
+Jan. 21
+Jul. 21
+Jan. 22
+Jul. 22
+Jan. 23
+Jul. 23
+Jan. 24
+Jul. 24
+Jan. 25
+Jul. 25
+TecDAX Index
+DAX Software Index
+M+M Aktie/Share EUR
+2%  Div Rendite/Return
+3%
+Quarterly report Q3/2025
+Ausblick 
+Angesichts solider 9M-Ergebnisse und der 
+abgeschlossenen System umstellung, sowie 
+in Erwartung eines kräftigen Ertragsschubs 
+gegenüber dem sehr schwachen Q4/2024, 
+behalten wir die Ziele für 2025 unverändert 
+bei, also +5-7% auf EUR 183-187 Mio beim 
+Rohertrag sowie +9-19% auf 196-214 Cent 
+beim EPS bzw. EUR 51-55 Mio beim EBIT. 
+ 
+Bei Zielerreichung ist eine Dividende von 
+205-215 Cent (Vj 185) geplant. 
+ 
+Für 2026 erwarten wir dann ein kräftigeres 
+Wachstum von +8-12% beim Rohertrag 
+sowie +13-25% bei EPS bzw. EBIT und  
+planen +25-40 Cent mehr Dividende. 
+ 
+Alle Zielsetzungen stehen unter Vorbehalt 
+Alle hier genannten Ziele stehen unter dem 
+Vorbehalt, dass die Marktbedingungen in 
+etwa so eintreten, wie sie in den Planungs-
+modellen angenommen wurden.  
+Es kann daher keine Garantie für das  
+Erreichen der Ziele übernommen werden. 
+ 
+Wessling, 21. Oktober 2025 
+Das geschäftsführende Direktorium
+Balance sheet development / Treasury stock 
+Total assets as of Sept 30, 2025 were  
+EUR 195.07 mln (Dec 31, 24: 211.89 / -8%).  
+Share holders’ equity was EUR 83.40 mln 
+(Dec 31, 2024: 104.91 / -21%), equity ratio 
+amounted to 42.8% (Dec 31, 2024: 49.5%).  
+ 
+Since January total 519,312 M+M shares  
+(PY: 42,745) were bought back at an average 
+EUR 49.28 per share (PY: 51.89), amounting 
+in total to KEUR 25,593 (PY: 2,218). 
+ 
+On the other hand, 202,740 (PY: 162,592) 
+treasury shares with a book value of KEUR 
+9,819 (PY: 6,837) or EUR 48.43 per share 
+(PY: 42.05) were issued at a price of  
+EUR 54.27 (PY: 57.17) as share dividend. 
+The price gain of KEUR 1,184 (PY: 2,458) 
+was recorded in the capital reserves.  
+ 
+As of Sept 30, 2025, we held 566,348 shares 
+of treasury stock (Dec 31, 24: 249,776), 
+carried at cost amounting to KEUR 27,500 
+(Dec 31, 24: 11,726) or EUR 48.56 / share 
+(Dec 31, 24: 46.94), representing 3.30%  
+(Dec 31, 24: 1.46%) of the issued capital. 
+ 
+According to IFRS treasury stock is treated 
+in the balance sheet like retired shares and 
+deducted from equity.  
+ 
+Risks 
+Since December 31, 2024, no significant 
+changes to risks occured, so the list of  
+existing risks disclosed in the annual report 
+2024 on pages 20/21 is still valid.  
+ 
+Outlook 
+In light of solid 9M results as well as the 
+completed system change, and expecting a 
+significant profit shift compared to the very 
+weak Q4/2024, we reaffirm the 2025 targets 
+unchanged, namely +5-7% increase in gross 
+profit to EUR 183-187 mln, +9-19% to 196-
+214 Cents in EPS and EUR 51-55 mln in EBIT.  
+ 
+Assuming we achieve these targets, we plan  
+a 205-215 Cents (PY: 185) dividend range. 
+ 
+For 2026 we expect a stronger growth of 
++8-12% in gross profit, +13-25% in EPS  
+as well as in EBIT and are planning +25-40 
+Cents more in dividends. 
+ 
+All estimates subject to error 
+All forward looking statements made herein 
+are subject to market conditions occurring 
+in line with estimations in the planning 
+models set up by the management.  
+Therefore no guarantee can be undertaken 
+for meeting these estimates. 
+ 
+Wessling, October 21, 2025 
+The Managing Directors
+5
+Software
+
+Quartalsbericht Q3/2025
+6
+Software
+1 Steuerquoten: 2025 (erwartet) 26,57% / 2024 (nachjustiert) 26,57%  
+1 Tax rates: 2025 (estimated) 26.57% / 2024 (restated) 26.57% 
+Beträge in TEUR                                       Amounts in KEUR                      
+ 
+Umsatzerlöse                                            Revenues 
+Materialaufwand                                         Cost of materials 
+Rohertrag                                                  Gross margin 
+Personalaufwand                                       Personnel expenses 
+Sonstiger betrieblicher Aufwand                Other operating expenses 
+Sonstige betriebliche Erträge                     Other operating income 
+Betriebsergebnis EBITDA                          Operating result EBITDA 
+Planmäßige Abschreibungen
+Depreciation 
+Abschreibungen Leasing (IFRS 16)        Depreciation finance leasing  
+Abschreibungen aus Kaufpreisverteilung  Amortisation PPA 
+Betriebsergebnis EBIT                              Operating result EBIT 
+Finanzergebnis                                           Financial result 
+Ergebnis vor Steuern                                Result before taxes 
+Ertragsteuern                                             Taxes on income 
+Ergebnis nach Steuern                               Net result after taxes 
+  davon den Aktionären der                        thereof attributable to  
+  MuM SE zuzurechnen                                M+M SE shareholders 
+  davon den Anteilen anderer                       thereof attributable to 
+  Gesellschafter zuzurechnen                       minority shareholders 
+Ergebnis je Aktie in EUR                            Net income per share in EUR 
+Durchschnittlich im Umlauf befindliche     Weighted average shares   
+Aktien in Mio Stück                                    outstanding in million
+Gewinn- und Verlustrechnung (ungeprüft) / Statement of income (unaudited)
+    1-9/2025 
+177.104   100% 
+-41.406   -23,4% 
+135.698  76,6% 
+ -81.799 -46,2% 
+ -15.937  -9,0% 
+    7.080    4,0% 
+ 45.042  25,4% 
+  -3.211  -1,8% 
+   -4.260   -2,4% 
+      -388   -0,2% 
+ 37.183  21,0% 
+  -1.362   -0,8% 
+ 35.821  20,2% 
+ -9.5171  -5,4% 
+  26.304  14,9% 
+             
+ 24.014  13,6% 
+ 
+    2.290   1,3%  
+  1,4359            
+              
+  16,724          
+     Q3/2024 
+  94.105   100% 
+ -52.589 -55,9% 
+  41.516  44,1% 
+ -24.514 -26,0% 
+   -5.146   -5,5% 
+       893    0,9% 
+  12.749  13,5% 
+   -1.147   -1,2% 
+   -1.362   -1,4% 
+      -129   -0,1% 
+  10.111  10,7% 
+       -153   -0,2% 
+    9.958  10,6% 
+ -2.6461   -2,8% 
+    7.312    7,8% 
+ 
+    6.715    7,1% 
+ 
+       597    0,6% 
+  0,3954              
+ 
+  16,984           
+     Q3/2025 
+  56.236   100% 
+ -13,858 -24,6% 
+  42.378  75,4% 
+ -26.728 -47,5% 
+   -4.696   -8,4% 
+    2.072    3,7% 
+  13.026  23,2% 
+   -1.060   -1,9% 
+   -1.416   -2,5% 
+      -129   -0,2% 
+  10.421  18,5% 
+       -573   -1,0% 
+    9.848  17,5% 
+ -2.6161   -4,7% 
+    7.232  12,9% 
+ 
+    6.514  11,6% 
+ 
+       718    1,3% 
+  0,3903              
+ 
+  16,691           
+% 
+-34% 
+-69% 
++0,5% 
++7,3% 
++0,5% 
++144% 
+-1,7% 
++0,7% 
++2,5% 
++0% 
+-2,4% 
++71% 
+-4,0% 
+-4,0% 
+-4,0% 
+ 
+-5,6% 
+ 
++18% 
+-4,6% 
+ 
+-1,1%
+% 
+-40% 
+-74% 
++2,1% 
++9,0% 
+-8,7% 
++132% 
++2,2% 
+-7,6% 
++4,0% 
++0% 
++3,1% 
++274% 
+-1,1% 
+-1,1% 
+-1,1% 
+ 
+-3,0% 
+ 
++20% 
+-1,3% 
+ 
+-1,7%
+    1-9/2024 
+270.077   100% 
+-135.025 -50,0% 
+135.052  50,0% 
+ -76.265 -28,2% 
+ -15.862  -5,9% 
+    2.903    1,1% 
+ 45.828  17,0% 
+  -3.188  -1,2% 
+   -4.157   -1,5% 
+      -388   -0,1% 
+ 38.095  14,1% 
+     -795   -0,3% 
+ 37.300  13,8% 
+ -9.9111  -3,7% 
+  27.389  10,1% 
+             
+ 25.443   9,4% 
+ 
+    1.946   0,7% 
+  1,5051            
+              
+  16,905          
+Quarterly report Q3/2025
+7
+Software
+Beträge in TEUR                                                         Amounts in KEUR                                           
+ 
+Zahlungsmittel und Zahlungsmitteläquivalente               Cash and cash equivalents 
+Forderungen aus Lieferungen und Leistungen                Trade accounts receivable 
+Vorräte                                                                            Inventories 
+Sonstige kurzfristige Vermögensgegenstände                Prepaid expenses and other current assets 
+Kurzfristige Vermögensgegenstände, gesamt        Total current assets 
+Sachanlagevermögen                                                      Property, plant and equipment 
+Immobilien                                                                      Real estate 
+Sonstige immaterielle Vermögensgegenstände              Intangible assets 
+Geschäfts- und Firmenwert                                             Goodwill 
+Sonstige finanzielle Vermögenswerte                              Other Investments 
+Nutzungsrechte Leasing (IFRS 16)                                 Right of use leasing contracts (IFRS 16) 
+Latente Steueransprüche                                                Deferred taxes 
+Langfristige Forderungen aus Lieferungen&Leistungen  Non current trade accounts receivable 
+Langfristige Vermögenswerte, gesamt                    Total non current assets 
+Vermögenswerte (Aktiva), gesamt                          Total assets 
+Kurzfristige Darlehen und kurzfristiger                           Short term debt and current portion  
+Anteil an langfristigen Darlehen                                      of long term debt 
+Kurzfr. Anteil Finanzleasingverbindlichkeiten (IFRS 16)  Current finance lease obligations (IFRS 16) 
+Verbindlichkeiten aus Lieferungen und Leistungen         Trade accounts payable 
+Kurzfristige Rückstellungen                                            Accrued expenses 
+Umsatzabgrenzungsposten                                             Deferred revenues 
+Verbindlichkeiten aus Ertragsteuern                                Income tax payable 
+Sonstige kurzfristige Schulden                                        Other current liabilities 
+Kurzfristige Schulden, gesamt                                  Total current liabilities 
+Langfristige Darlehen                                                      Long term debt, less current portion 
+Langfristige Finanzleasingverbindlichkeiten (IFRS 16)    Long term finance lease obligations (IFRS 16) 
+Verbindlichkeiten aus Lieferungen und Leistungen         Trade accounts payable 
+Latente Steuerschulden                                                   Deferred taxes 
+Pensionsrückstellungen                                                  Pension accruals 
+Sonstige Rückstellungen                                                 Other accruals 
+Langfristige Schulden, gesamt                                 Total non current liabilities 
+Gezeichnetes Kapital                                                       Share capital 
+Kapital- und andere Rücklagen                                       Capital reserve and other reserves 
+Eigene Anteile                                                                  Treasury stock 
+Bilanzgewinn                                                                   Retained earnings 
+Kumuliertes übriges Eigenkapital                                    Other comprehensive income / loss 
+Anteile anderer Gesellschafter                                         Minority interest 
+Wechselkursdifferenzen                                                  Currency exchange gains/losses 
+Eigenkapital, gesamt                                                 Total shareholders' equity 
+Eigenkapital und Schulden (Passiva), gesamt       Total liabilities and shareholders' equity
+Bilanz (ungeprüft) / Balance sheet (unaudited)
+    30.09.2025      
+  23.876 
+  32.868              
+    8.006              
+  11.931              
+  76.681     39,3% 
+    5.151              
+  17.026              
+  31.695              
+  47.874              
+         33 
+  10.310 
+    1.314              
+    4.991              
+118.394     60,7% 
+195.075     100% 
+ 
+  13.009 
+    3.952 
+  29.466              
+  12.481              
+    7.042              
+    4.430              
+    6.748              
+  77.128     39,5% 
+  17.476              
+    6.513 
+    2.551              
+    7.755              
+       175              
+         80 
+  34.550     17,7% 
+  17.149              
+  50.483              
+ -27.500              
+  35.614 
+      -430 
+    6.707              
+    1.374              
+  83.397     42,8% 
+195.075     100%
+31.12.2024 
+  42.997 
+  35.171              
+    8.436              
+  13.668              
+100.272     47,3% 
+    5.416              
+  17.319              
+  28.247              
+  47.874              
+         32              
+  11.418              
+    1.314 
+              
+111.620     52,7% 
+211.892     100% 
+              
+    3.013 
+    5.162              
+  33.414              
+  12.405              
+    6.184              
+    4.938              
+    7.147              
+  72.263     34,1% 
+    4.558              
+    6.399              
+  16.293 
+    7.299 
+         85              
+         80 
+  34.714     16,4% 
+  17.149              
+  49.299              
+ -11.726              
+  42.272 
+      -430  
+    6.455              
+    1.896              
+104.915     49,5% 
+211.892     100%
+% 
+-44% 
+-7% 
+-5% 
+-13% 
+-24% 
+-5% 
+-2% 
++12% 
+0% 
++3% 
+-10% 
+0% 
+ 
++6% 
+-8% 
+ 
++332% 
+-23% 
+-12% 
++1% 
++14% 
+-10% 
+-6% 
++7% 
++283% 
++2% 
+-84% 
++6% 
++106% 
+0% 
+-0% 
+0% 
++2% 
++135% 
+-16% 
+0% 
++4% 
+-28% 
+-21% 
+-8%
+
+Quartalsbericht Q3/2025
+Beträge in TEUR                                                   Amounts in KEUR 
+Ergebnis nach Steuern                                         Net result after tax 
+Zinsergebnis                                                          Interest result 
+Wertminderung / Abschreibungen                        Depreciation and amortization 
+Sonstige zahlungsunwirksame  
+Erträge / Aufwendungen                                        Other non cash income / expenses 
+Zu-/Abnahme der Rückstellungen   
+und Wertberichtigungen                                        Increase/decrease in provisions and accruals 
+Gewinn/Verlust aus dem Abgang                           
+von Anlagevermögen                                             Losses/gains on the disposal of fixed assets 
+Veränderungen des Nettoumlaufvermögens         Change in net working capital 
+Aus betrieblicher Tätigkeit  
+erwirtschaftete (eingesetzte) Zahlungsmittel      Net cash provided by (used in) operating activities 
+Erwerb von Tochterunternehmen,                          
+abzüglich erworbener Zahlungsmittel                    Purchase of subsidiaries, net of cash 
+Erwerb von Immobilien                                         Purchase of real estate 
+Erwerb von sonstigem Anlagevermögen               Purchase of other fixed assets 
+Verkauf von sonstigem Anlagevermögen              Sale of other fixed assets 
+Aus der Investitionstätigkeit erwirtschaftete       
+(eingesetzte) Zahlungsmittel                               Net cash provided by (used in) investing activities 
+Einzahlungen aus Eigenkapitalzuführungen           Proceeds from issuance of share capital 
+Zins-Ein-/Auszahlungen                                         Interest proceeds/payments 
+Ein-/Auszahlungen Kauf/Verkauf eigener Anteile   Purchase/disposal of treasury stock 
+Dividendenauszahlung an MuM-Aktionäre            Dividend payment to M+M shareholders 
+Dividendenauszahlung an andere Gesellschafter   Dividend payment to minority shareholders 
+Ein-/Auszahlungen aus der Aufnahme/Rück-         
+führung von kurz- und langfristigen Darlehen       Proceeds from short or long term borrowings 
+Veränd. Finanzleasingverbindlichkeiten IFRS 16   Change in finance lease obligations (IFRS 16) 
+Aus der Finanzierungstätigkeit erzielte              Net cash provided by (used in)  
+(eingesetzte) Zahlungsmittel                               financing activities 
+Wechselkursbedingte Veränderungen                   Net effect of currency translation  
+der liquiden Mittel                                                 in cash and cash equivalents 
+Erhöhung/Verminderung der Zahlungsmittel      Net increase/decrease in  
+und Zahlungsmitteläquivalente                           cash and cash equivalents 
+Zahlungsmittel und Zahlungsmittel- 
+äquivalente zu Beginn der Periode                      Cash and cash equivalents at beginning of period 
+Zahlungsmittel und Zahlungsmittel- 
+äquivalente am Ende der Periode                       Cash and cash equivalents at end of period
+1-9/2025 
+26.304 
+107 
+7.858 
+ 
+1.261 
+ 
+240 
+ 
+-63 
+-19.085 
+ 
+16.622 
+ 
+0 
+-15 
+-6.625 
+158 
+ 
+-6.482 
+1.184 
+-35 
+-15.774 
+-30.672 
+-2.037 
+ 
+22.915 
+-4.248 
+ 
+-28.667 
+ 
+-594 
+ 
+-19.121 
+ 
+42.997 
+ 
+23.876
+Kapitalflussrechnung (ungeprüft) / Statement of cash flows (unaudited)
+1-9/2024 
+26.333 
+-64 
+7.733 
+ 
+1.639 
+ 
+-515 
+ 
+-26 
+17.680 
+ 
+52.782 
+ 
+-749 
+0 
+-6.290 
+70 
+ 
+-6.969 
+2.457 
+-28 
+4.618 
+-27.771 
+-1.929 
+ 
+1.667 
+-4.155 
+ 
+-25.141 
+ 
+15 
+ 
+20.687 
+ 
+24.867 
+ 
+45.554
+8
+Software
+Quartalsbericht Q1/2000
+Quarterly report Q3/2025
+9
+Software
+Beträge in TEUR                                                          Gezeichnetes            Kapital-              Bilanz-      Kumuliertes              Eigene            Wechsel-        Aktionären              Anteile              Eigen- 
+                                                                                             Kapital          Rücklage            gewinn/             übriges              Anteile                kurs-          der M+M            anderer              kapital  
+ 
+                                                                                                                                             -verlust      Eigenkapital                                differenzen       zurechenbar     Gesellschafter                              
+Amounts in KEUR                                                          Subscribed              Capital               Profit/                Other           Treasury             Currency       attributable           Minority                 Total 
+                                                                                             Capital            Reserve                 Loss    comprehensive                stock       conversion       to M+M SE             interest               equity 
+                                                                                                                                                              income/loss                                                      shareholders                            
+Stand 31.12.2023 / As of Dec 31, 2023                              17.149              47.160              39.556                  -577             -12.244                1.807              92.849                6.906              99.757 
+Eigene Anteile / Treasury stock                                                                          148                                                                  -6.318                                         -6.170                                         -6.170 
+Dividende / Dividend                                                                                      2.457            -27.771                                        6.836                                     -18.478              -3.117            -21.595 
+Nettoergebnis / Net result                                                                                                     30.487                                                                                       30.487               2.948             33.435 
+Veränd. Minderheiten / Minority interest change                                              -466                                                                                                                        -466                  -282                  -748 
+Kumuliertes übriges Eigenkapital aus Pensionsbewertung 
+Other comprehensive income from pension assessment                                                                                                47                                                                         47                                               47 
+Wechselkursdifferenzen / Currency conversion                                                                                                    100                                             89                  189                                           189 
+Stand 31.12.2024 / As of Dec 31, 2024                              17.149              49.299              42.272                 -430            -11.726                1.896              98.458                6.455            104.915 
+Eigene Anteile / Treasury stock                                                                                                                                                -25.593                                       -25.593                                       -25.593 
+Dividende / Dividend                                                                                      1.184            -30.672                                        9.819                                     -19.669              -2.038            -21.707 
+Nettoergebnis / Net result                                                                                                     24.014                                                                                       24.014               2.290             26.304 
+Veränd. Minderheiten / Minority interest change                                                   0                                                                                                                              0                                                 0 
+Wechselkursdifferenzen / Currency conversion                                                                                                                                                  -522                 -522                                          -522 
+Stand 30.9.2025 / As of Sep 30, 2025                                17.149              50.483              35.614                 -430            -27.500                1.374              76.688                6.707              83.397
+Entwicklung Konzern-Eigenkapital (ungeprüft) / Development of shareholders’ equity (unaudited)
+Beträge in TEUR / Amounts in KEUR
+M+M Software
+Digitalisierung / Digitization 
+                                                                                 1-9/2025         
+%       1-9/2024               1-9/2025          
+%        1-9/2023       
+Umsatzerlöse / Revenue                                   85.995   100%    +4,5%   82.308   100%     91.109   100%   -51,5%   187.769   100%  
+ Anteil am Konzern-Umsatz / Group revenue share                 48,6%                                   30,5%                       51,4%                                     69,5%              
+Materialaufwand / Cost of materials                         -8.456   -9,8%     +16%     -7.315   -8,9%     -32.950  -36,2%     -74%  -127.710 -68,0% 
+Rohertrag / Gross Margin                                  77.539  90,2%    +3,4%   74.993  91,1%     58.159  63,8%    -3,2%    60.059  32,0% 
+  Anteil Konzern-Rohertrag / Group gross margin share         57,1%                                   55,5%                       42,9%                                     44,5%              
+Personalaufwand / Personnel expenses                -43.052 -50,1%     +6,2%   -40.521 -49,2%    -38.747 -42,5%    +8,4%    -35.744 -19,0% 
+Sonstiger betrieblicher Aufwand / Other opex         -9.609 -11,2%     +9,0%    -8.813 -10,7%      -6.328   -6,9%      -10%      -7.049  -3,8% 
+Sonstige betriebliche Erträge / Other op income       3.806   4,4%    +230%      1.154    1,4%       3.274    3,6%     +87%       1.749   0,9% 
+Planmäßige Abschreibungen / Depreciation            -1.615  -1,9%     -1,4%    -1.638   -2,0%      -1.596   -1,8%    +3,0%      -1.550  -0,8% 
+Abschreibung / Depreciation Leasing (IFRS 16)      -2.053  -2,4%      +28%    -1.603   -1,9%      -2.207   -2,4%      -14%      -2.554  -1,4% 
+Abschr. Kaufpreisverteilung / Amortisation PPA        -388  -0,5%        0%       -388   -0,5%              0    0,0%                           0   0,0% 
+Betriebsergebnis / Operating result EBIT         24.628  28,6%     +6,2%   23.184  28,2%     12.555  13,8%     -16%    14.911   7,9% 
+  Anteil am Konzern-EBIT / Group EBIT share                          66,2%                                   60,9%                       33,8%                                     39,1%              
+Segmentierung (ungeprüft) / Segmentation (unaudited)
+
+Quartalsbericht Q3/2025
+10
+Software
+Anhang 
+ 
+Bilanzierungs- und Bewertungsmethoden 
+Es werden die gleichen Bilanzierungs- und 
+Bewertungsmethoden angewandt wie im 
+letzten Jahresabschluss zum 31.12.2024. 
+Für die Berechnung der Ertragssteuern wird 
+für 2025 ebenso wie für die Vorjahreszahlen 
+die im Gesamtjahr 2024 erzielte effektive 
+Steuerquote von 26,57% verwendet. 
+ 
+Forschung & Entwicklung 
+Die Aufwendungen für Software-Entwicklung  
+betrugen EUR 20,53 Mio (Vj 19,31).  
+ 
+Notes 
+ 
+Accounting and valuation methods 
+The same accounting and valuation 
+methods are applied as in the last annual 
+report of Dec 31, 2024. 
+Income tax calculation is based on the 
+actual 2024 annual tax rate amounting to 
+26.57% both for 2025 and PY figures. 
+ 
+ 
+Research & Development 
+Expenses for development of software  
+amounted to EUR 20.53 mln (PY: 19.31).  
+ 
+Quartalsbericht Q1/2000
+Quarterly report Q3/2025
+11
+Software
+Termine
+17. März 2026            Geschäftsbericht 2025 
+21. April 2026             Quartalsbericht Q1 / 2026 
+12. Mai 2026             Hauptversammlung 2026 
+21. Juli 2026             Halbjahresbericht 2026 
+20. Oktober 2026      Quartalsbericht Q3/2026 
+Events
+March 17, 2026        Annual report 2025 
+April 21, 2026           Quarterly report Q1/ 2026 
+May 12, 2026            Shareholders’ meeting 
+July 21, 2026            Half year report 2026 
+October 20, 2026      Quarterly report Q3 / 2026 
+Investitionen 
+Seit dem 1.1.2025 wurde in Höhe von  
+EUR 6,48 Mio (Vj 6,97) investiert, primär in 
+die Erneuerung des Anlagevermögens sowie 
+für Anteilskäufe bei Tochterunternehmen. 
+ 
+Dividende 
+Auf der Hauptversammlung am 8.5.2025 
+wurde die Ausschüttung einer Dividende von 
+EUR 1,85 je Aktie (Vj 1,65) beschlossen, 
+wahlweise in bar oder als Aktiendividende.  
+ 
+Der Gesamtbetrag der Ausschüttung belief 
+sich auf TEUR 19.669 (Vj 18.478) in bar 
+sowie 202.740 eigene Aktien (Vj 162.592) 
+gegen Einbringung von Dividendenansprüchen 
+in Höhe von TEUR 11.003 (Vj 9.293).
+Capital expenditure 
+Since Jan 1, 2025, capital expenditure  
+amounting to EUR 6.48 mln (PY: 6.97) was 
+mainly spent on the renewal of fixed assets 
+and on subsidiary shareholdings. 
+ 
+Dividend 
+The annual shareholders’ meeting held on 
+May 8, 2025, decided to pay out a dividend 
+amounting to EUR 1.85 (PY: 1.65) per share, 
+optionally in cash or as a share dividend.  
+ 
+The total amount of the dividend payment  
+was KEUR 19,669 (PY: 18,478) in cash and 
+202,740 treasury shares (PY: 162,592) by 
+contribution of dividend rights amounting to 
+KEUR 11,003 (PY: 9,293).
