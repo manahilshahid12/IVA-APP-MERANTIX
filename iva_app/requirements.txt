@@ -1,6 +1,7 @@
 anthropic>=0.25.0
-gradio>=4.44.0
+gradio>=4.50.0
 python-dotenv>=1.0.0
 pymupdf>=1.23.0
 SpeechRecognition>=3.10.0
 pydub>=0.25.0
+pyarrow>=15.0.0

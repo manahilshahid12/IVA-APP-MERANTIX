@@ -60,29 +60,35 @@ COMPANIES = {
     },
 }
 
-SYSTEM_PROMPT = """You are a knowledgeable and conversational assistant for Merantix Capital, specializing in company analysis. You help users explore information about two companies: Mensch und Maschine (a German CAD/PDM software provider) and Tyson Foods (a US food manufacturer).
+SYSTEM_PROMPT = """You are a precise research assistant for Merantix Capital analyzing two companies: Mensch und Maschine and Tyson Foods.
 
-CONTEXT TRACKING:
-- Always track which company the user is asking about.
-- If a user asks a follow-up question without specifying a company (e.g. "What about their Q2 results?"), assume they mean the last company discussed.
-- If it is genuinely unclear which company they mean, ask for clarification politely.
+CRITICAL RULES - STRICTLY FOLLOW WITHOUT EXCEPTION:
+1. ONLY use information explicitly present in the DOCUMENT CONTEXT provided below
+2. NEVER use general knowledge, internet knowledge, or external information
+3. NEVER mention "general knowledge", "typically", "usually", or similar phrases
+4. If information is not in documents, respond with: "I don't have that information in the available documents."
 
-INFORMATION RULES — STRICTLY FOLLOW THESE:
-1. Answer based primarily on the document excerpts provided. Prefer document information.
-2. If information is NOT found in the documents, say: "The documents I have don't contain specific details about [topic], but based on general industry knowledge, [answer]."
-3. NEVER DISCLOSE: funding rounds, employee salaries, precise contract sizes, detailed financial deal terms, or client names.
-4. ALLOWED to discuss: yearly revenue, quarterly revenue, business segments, products, market position, strategic initiatives mentioned in documents.
-5. If asked about restricted topics, politely decline: "I'm not able to share that level of detail from these documents."
+DOCUMENT CONTEXT RULES:
+- The document excerpts are provided in the DOCUMENT CONTEXT section
+- Each document is labeled with [filename]
+- Only answer questions using these exact documents
+- If the folder shows "(No documents available)", it means no documents were loaded for that company
 
-TONE:
-- Be conversational, warm, and concise.
-- Give direct answers — don't pad with unnecessary caveats.
-- If a question is ambiguous, ask one clear clarifying question.
+COMPANY CONTEXT:
+- Track which company user is asking about
+- For ambiguous follow-ups, refer to the previously discussed company
+- Ask for clarification if unclear
 
-RESPONSE FORMAT:
-- Keep responses to 3-5 sentences for simple questions.
-- Use bullet points only for lists of 3+ items.
-- Always end with an invitation to ask more if the topic seems complex."""
+FORBIDDEN CONTENT:
+- Funding rounds, employee salaries, contract details, client names
+- General statements like "Based on typical companies..."
+- Speculation or assumptions
+
+ALLOWED CONTENT (if in documents):
+- Revenue, profitability, business segments, products, market position
+- Always cite which document the information came from
+
+TONE: Direct, factual, honest about available information."""
 
 # ── Document Loading ───────────────────────────────────────────────────────────
 
@@ -121,11 +127,12 @@ def load_documents() -> dict:
             for file_path in sorted(txt_files):
                 try:
                     content = file_path.read_text(encoding="utf-8", errors="ignore")
-                    # Only add if content is substantial (not just placeholders)
+                    # Only add if content is substantial (not just placeholders or READMEs)
                     if (
                         content.strip()
                         and len(content.strip()) > 50
                         and not content.startswith("[No documents")
+                        and file_path.name != "README_ADD_DOCS_HERE.md"
                     ):
                         docs[company_key].append(
                             {
@@ -136,24 +143,17 @@ def load_documents() -> dict:
                         debug_log(f"  Added {file_path.name} ({len(content)} bytes)")
                 except Exception as e:
                     debug_log(f"  Error reading {file_path}: {e}")
-        if not docs[company_key]:
-            docs[company_key] = [
-                {
-                    "filename": "placeholder.txt",
-                    "content": f"[No documents loaded yet for {company_info['display_name']}. Please add documents to {company_info['folder']}]",
-                }
-            ]
-            debug_log(f"No documents found for {company_key}, using placeholder")
-        else:
+
+        # NO PLACEHOLDERS - leave empty if no docs found
+        if docs[company_key]:
             debug_log(f"Loaded {len(docs[company_key])} documents for {company_key}")
+        else:
+            debug_log(f"No documents found for {company_key}")
     return docs
 
 
-# Convert PDFs to text first
+# Convert PDFs to text on startup (silently)
 convert_all_pdfs_to_txt()
-
-# Then load all documents
-DOCUMENTS = load_documents()
 
 # ── Context Detection ──────────────────────────────────────────────────────────
 
@@ -169,33 +169,6 @@ def detect_company(message: str, last_company: str | None) -> str | None:
     return last_company
 
 
-def build_document_context(company_key: str | None) -> str:
-    """Build the document context string to inject into the prompt."""
-    if company_key is None:
-        # Include both companies
-        parts = []
-        for key, info in COMPANIES.items():
-            docs = DOCUMENTS.get(key, [])
-            doc_count = len(
-                [d for d in docs if not d["filename"].startswith("placeholder")]
-            )
-            debug_log(f"build_context: {key} has {doc_count} real documents")
-            doc_text = "\n\n".join(f"[{d['filename']}]\n{d['content']}" for d in docs)
-            parts.append(f"=== {info['display_name']} ===\n{doc_text}")
-        return "\n\n".join(parts)
-    else:
-        info = COMPANIES[company_key]
-        docs = DOCUMENTS.get(company_key, [])
-        doc_count = len(
-            [d for d in docs if not d["filename"].startswith("placeholder")]
-        )
-        debug_log(
-            f"build_context: {company_key} has {doc_count} real documents, total context size: {sum(len(d['content']) for d in docs)} bytes"
-        )
-        doc_text = "\n\n".join(f"[{d['filename']}]\n{d['content']}" for d in docs)
-        return f"=== {info['display_name']} ===\n{doc_text}"
-
-
 # ── Core Chat Logic ────────────────────────────────────────────────────────────
 
 
@@ -207,14 +180,22 @@ def chat(
     if not user_message.strip():
         return "", history, last_company
 
-    # DEBUG: Log what's in DOCUMENTS when chat is called
-    debug_log(f"chat() called with message: {user_message[:50]}")
-    debug_log(f"DOCUMENTS keys: {list(DOCUMENTS.keys())}")
-    for key in DOCUMENTS:
-        num_docs = len(
-            [d for d in DOCUMENTS[key] if not d["filename"].startswith("placeholder")]
-        )
-        debug_log(f"  {key}: {num_docs} real docs")
+    # RELOAD documents for this request (ensures fresh data)
+    try:
+        docs = load_documents()
+    except Exception as e:
+        debug_log(f"❌ Error loading documents: {type(e).__name__}: {str(e)}")
+        error_msg = f"❌ Error loading documents. Check debug.log for details."
+        history.append({"role": "user", "content": user_message})
+        history.append({"role": "assistant", "content": error_msg})
+        return "", history, last_company
+
+    # DEBUG: Log what's in documents when chat is called
+    debug_log(f"chat() called - reloading documents")
+    debug_log(f"Document keys: {list(docs.keys())}")
+    for key in docs:
+        num_docs = len(docs[key])
+        debug_log(f"  {key}: {num_docs} documents")
 
     key = ANTHROPIC_API_KEY
     if not key:
@@ -227,9 +208,60 @@ def chat(
 
     # Detect company context
     current_company = detect_company(user_message, last_company)
+    debug_log(
+        f"DETECT COMPANY: message='{user_message[:50]}...' detected={current_company}"
+    )
 
-    # Build document context
-    doc_context = build_document_context(current_company)
+    # Build document context from freshly loaded docs
+    if current_company is None:
+        # No specific company mentioned - include documents from both if available
+        parts = []
+        docs_found_count = 0
+        for key_name, info in COMPANIES.items():
+            company_docs = docs.get(key_name, [])
+            if company_docs:
+                docs_found_count += len(company_docs)
+                doc_text = "\n\n".join(
+                    f"[{d['filename']}]\n{d['content']}" for d in company_docs
+                )
+                parts.append(f"=== {info['display_name']} ===\n{doc_text}")
+
+        if not parts:
+            # NO documents found at all - error
+            error_msg = "❌ No documents available for either company. Please check that documents are in the documents/ folder."
+            debug_log(f"ERROR: {error_msg}")
+            history.append({"role": "user", "content": user_message})
+            history.append({"role": "assistant", "content": error_msg})
+            return "", history, current_company
+
+        doc_context = "\n\n".join(parts)
+        debug_log(f"multi-company mode: {docs_found_count} total documents found")
+    else:
+        info = COMPANIES[current_company]
+        company_docs = docs.get(current_company, [])
+        doc_count = len(company_docs)
+        debug_log(
+            f"build_context: {current_company} has {doc_count} documents, total context size: {sum(len(d['content']) for d in company_docs)} bytes"
+        )
+        if not company_docs:
+            # CRITICAL: Documents truly didn't load - return immediate error
+            error_msg = f"❌ No documents found for {info['display_name']}. The document folder may be empty or inaccessible. Expected folder: {info['folder']}"
+            debug_log(f"ERROR: {error_msg}")
+            history.append({"role": "user", "content": user_message})
+            history.append({"role": "assistant", "content": error_msg})
+            return "", history, current_company
+
+        # Load documents successfully
+        doc_text = "\n\n".join(
+            f"[{d['filename']}]\n{d['content']}" for d in company_docs
+        )
+        doc_context = f"=== {info['display_name']} ===\n{doc_text}"
+
+    # DEBUG: Log the actual context being sent
+    context_length = len(doc_context)
+    debug_log(f"doc_context length: {context_length} bytes")
+    if context_length < 100:
+        debug_log(f"WARNING: Context very small! Docs may not be loading.")
 
     # Build messages for Claude
     messages = []
@@ -252,19 +284,34 @@ Current company context: {company_name}
 User question: {user_message}"""
 
     messages.append({"role": "user", "content": augmented_message})
+    debug_log(
+        f"Sending to Claude, total message context: {sum(len(m['content']) for m in messages)} bytes"
+    )
 
     try:
+        debug_log(f"Creating Anthropic client...")
         client = anthropic.Anthropic(api_key=key)
+        debug_log(f"Sending request to {MODEL}...")
         response = client.messages.create(
             model=MODEL, max_tokens=1024, system=SYSTEM_PROMPT, messages=messages
         )
         reply = response.content[0].text
-    except anthropic.AuthenticationError:
-        reply = "Invalid API key. Please check and re-enter your Anthropic API key."
-    except anthropic.RateLimitError:
-        reply = "Rate limit reached. Please wait a moment and try again."
+        debug_log(f"✓ API response received: {len(reply)} characters")
+    except anthropic.AuthenticationError as e:
+        debug_log(f"❌ AUTH ERROR: {str(e)}")
+        reply = "❌ Invalid API key. Please check ANTHROPIC_API_KEY in your .env file."
+    except anthropic.RateLimitError as e:
+        debug_log(f"⏱️  RATE LIMIT: {str(e)}")
+        reply = "⏱️  Rate limit reached. Please wait a moment and try again."
+    except anthropic.APIConnectionError as e:
+        debug_log(f"🌐 CONNECTION ERROR: {str(e)}")
+        reply = "🌐 Cannot connect to Anthropic API. Check your internet connection."
+    except anthropic.APITimeoutError as e:
+        debug_log(f"⏳ TIMEOUT: {str(e)}")
+        reply = "⏳ Request to Claude timed out. Please try again."
     except Exception as e:
-        reply = f"Something went wrong: {str(e)}"
+        debug_log(f"❌ UNEXPECTED ERROR: {type(e).__name__}: {str(e)}")
+        reply = f"❌ Error: {type(e).__name__}. Check debug.log for details."
 
     # Update history with clean user message (not augmented)
     history.append({"role": "user", "content": user_message})
@@ -351,24 +398,39 @@ def build_ui():
 
         # ── Event handlers ────────────────────────────────────────────────────
         def submit_text(user_msg, history, lc):
-            return chat(user_msg, history, lc)
+            """Handle text submission safely."""
+            try:
+                if not user_msg or not user_msg.strip():
+                    return "", history, lc
+                return chat(user_msg, history, lc)
+            except Exception as e:
+                debug_log(f"❌ submit_text error: {type(e).__name__}: {str(e)}")
+                error_reply = f"❌ Error processing message: {type(e).__name__}"
+                history.append({"role": "user", "content": user_msg})
+                history.append({"role": "assistant", "content": error_reply})
+                return "", history, lc
 
         def process_voice(audio_path, current_input, history, lc):
             """Process voice input and add to chat."""
-            if not audio_path:
-                return current_input, history, lc
+            try:
+                if not audio_path:
+                    return current_input, history, lc
 
-            # Transcribe audio
-            transcribed_text = transcribe_audio_file(audio_path)
+                # Transcribe audio
+                transcribed_text = transcribe_audio_file(audio_path)
 
-            if transcribed_text.startswith("🎤"):  # Error message
-                # Show error but allow retry
-                return transcribed_text, history, lc
-            else:
-                # Add transcribed text to input and auto-submit
-                new_input = transcribed_text
-                response, history, lc = chat(new_input, history, lc)
-                return new_input, history, lc
+                if transcribed_text.startswith("🎤"):  # Error message
+                    # Show error but allow retry
+                    return transcribed_text, history, lc
+                else:
+                    # Add transcribed text to input and auto-submit
+                    new_input = transcribed_text
+                    response, history, lc = chat(new_input, history, lc)
+                    return new_input, history, lc
+            except Exception as e:
+                debug_log(f"❌ process_voice error: {type(e).__name__}: {str(e)}")
+                error_msg = f"🎤 Error processing voice: {type(e).__name__}"
+                return error_msg, history, lc
 
         submit_btn.click(
             fn=submit_text,

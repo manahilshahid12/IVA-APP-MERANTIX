@@ -2,7 +2,7 @@
 
 ### Merantix Capital Technical Assignment | Manahil Shahid
 
-A conversational AI assistant that lets users ask natural language questions about **Mensch und Maschine** and **Tyson Foods**, with voice input support, context tracking, and built-in financial/client data guardrails.
+A conversational AI assistant that lets users ask natural language questions about **Mensch und Maschine** and **Tyson Foods**, with voice input support, context tracking, and built-in financial/client data guardrails (for privacy).
 
 ---
 
@@ -24,7 +24,8 @@ cp .env.example .env
 **3. Add your documents and run**
 
 ```bash
-# Drop your .txt or .md document files into:
+#  Documents have already been added but in case any other docs in future
+#  Drop your .txt or .md document files into:
 #   documents/mensch_und_maschine/
 #   documents/tyson_foods/
 
@@ -77,11 +78,11 @@ python -c "import fitz; doc=fitz.open('file.pdf'); open('out.txt','w').write(''.
 
 ### Why this stack?
 
-**Claude (Anthropic)** as the LLM backbone — listed as an example tool in the brief, and the best model for instruction-following and guardrail adherence. The system prompt approach gives precise control over what the model will and won't disclose.
+**Claude (Anthropic)** as the LLM backbone — one of the best model for instruction-following and guardrail adherence. The system prompt approach gives precise control over what the model will and won't disclose.
 
 **Gradio** for the UI — gives a production-ready chat interface with built-in microphone support in a single Python file. No frontend code needed, deploys instantly to Hugging Face Spaces if required.
 
-**Document injection (RAG-lite)** rather than a vector database — given the document set is small (two companies, limited files), injecting the full document context into each prompt is simpler, more reliable, and easier to debug than setting up a vector store. For a larger document set (50+ files), I would switch to a proper RAG pipeline using LlamaIndex or LangChain with a ChromaDB or Pinecone backend.
+**Document injection (RAG-lite)** rather than a vector database since given the document set is small (two companies, limited files), injecting the full document context into each prompt is simpler, more reliable, and easier to debug than setting up a vector store. For a larger document set (50+ files), I would switch to a proper RAG pipeline using LlamaIndex or LangChain with a ChromaDB or Pinecone backend.
 
 ### How it works
 
@@ -111,7 +112,7 @@ Financial and client data protection is enforced at the system prompt level with
 - Never disclose funding rounds, employee salaries, or precise contract sizes
 - Only share: yearly revenue, quarterly revenue, next-quarter projections
 - Never name any clients of either company
-- Redirect gracefully when these topics arise
+- Redirect gracefully when these topics arise or give a satisfactory response
 
 ### Context tracking
 
